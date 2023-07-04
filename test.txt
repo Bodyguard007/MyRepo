@@ -1,3 +1,3 @@
-
-  accessKeySecret= 'DemoForTestZyA4QlPvr7iLH8fCaaJ'
-  
+psd = long_664008588
+password = long_664008588
+accessKeySecret = long_664008588
